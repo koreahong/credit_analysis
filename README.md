@@ -1,4 +1,5 @@
-# credit_analysis
+# 주제
+- 신용등급 분류
 
 # 대회출처
 - DACON
