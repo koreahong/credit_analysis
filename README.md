@@ -4,4 +4,5 @@
 # 대회출처
 - DACON
 
-# catboost 사용
+# 알고리즘 
+- catboost 사용
