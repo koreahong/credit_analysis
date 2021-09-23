@@ -4,6 +4,9 @@
 # 대회출처
 - DACON
 
+# 결과
+- log loss 0.76
+
 # 알고리즘 
 - catboost 사용
 - 로지스틱
